@@ -1,0 +1,14 @@
+E:\Development\Fun things\Password generator\csharp\bin\Debug\net8.0\csharp.exe
+E:\Development\Fun things\Password generator\csharp\bin\Debug\net8.0\csharp.deps.json
+E:\Development\Fun things\Password generator\csharp\bin\Debug\net8.0\csharp.runtimeconfig.json
+E:\Development\Fun things\Password generator\csharp\bin\Debug\net8.0\csharp.dll
+E:\Development\Fun things\Password generator\csharp\bin\Debug\net8.0\csharp.pdb
+E:\Development\Fun things\Password generator\csharp\obj\Debug\net8.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Fun things\Password generator\csharp\obj\Debug\net8.0\csharp.AssemblyInfoInputs.cache
+E:\Development\Fun things\Password generator\csharp\obj\Debug\net8.0\csharp.AssemblyInfo.cs
+E:\Development\Fun things\Password generator\csharp\obj\Debug\net8.0\csharp.csproj.CoreCompileInputs.cache
+E:\Development\Fun things\Password generator\csharp\obj\Debug\net8.0\csharp.dll
+E:\Development\Fun things\Password generator\csharp\obj\Debug\net8.0\refint\csharp.dll
+E:\Development\Fun things\Password generator\csharp\obj\Debug\net8.0\csharp.pdb
+E:\Development\Fun things\Password generator\csharp\obj\Debug\net8.0\csharp.genruntimeconfig.cache
+E:\Development\Fun things\Password generator\csharp\obj\Debug\net8.0\ref\csharp.dll
